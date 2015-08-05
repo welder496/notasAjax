@@ -1,0 +1,21 @@
+{
+  "name": "notasajax",
+  "version": "1.0.0",
+  "description": "notasAjax communication ",
+  "main": "notasajax",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+     "type": "git",
+     "url": "git://github.com/welder496/notas.git"
+  },
+  "keywords": [
+    "notasajax"
+  ],
+  "author": "Welder Mauricio de Souza <welder496@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "najax": "^0.1.5"
+  }
+}
