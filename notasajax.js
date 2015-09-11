@@ -1,5 +1,5 @@
 var najax = require('najax');
-var host="172.20.33.178";
+var host="localhost";
 var port="12345";
 
 module.exports = {
